@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/en_ku"
+        app:showAsAction="always"
+        android:title="">
+        <menu>
+<item
+    android:id="@+id/action_en_ku"
+    android:title="English-Kurdish"
+    app:showAsAction="never"
+    android:orderInCategory="100"
+    android:icon="@drawable/en_ku"/>
+
+<item
+    android:id="@+id/action_ku_en"
+    android:title="Kurdish-English"
+    app:showAsAction="never"
+    android:orderInCategory="100"
+    android:icon="@drawable/ku_en"/>
+
+<item
+    android:id="@+id/action_en_en"
+    android:title="English-English"
+    app:showAsAction="never"
+    android:orderInCategory="100"
+    android:icon="@drawable/en_en"/>
+
+
+        </menu>
+
+
+    </item>
+</menu>

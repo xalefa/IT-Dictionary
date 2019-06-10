@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+ <TextView
+     android:id="@+id/testText"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:textSize="25dp"
+     android:layout_gravity="center"
+     android:text="" />
+
+ <ListView
+     android:id="@+id/dictionaryList"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"/>
+
+
+ <com.github.clans.fab.FloatingActionMenu
+      android:id="@+id/floatinActionMenu"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="end|bottom"
+
+     android:layout_margin="16dp"
+     app:menu_fab_label=""
+     app:menu_openDirection="up"
+     >
+  <com.github.clans.fab.FloatingActionButton
+
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      app:fab_label="@string/addNewWord"
+      android:id="@+id/sppechToText"
+      app:fab_size="mini"
+      android:src="@drawable/ic_mic"
+      />
+
+  <com.github.clans.fab.FloatingActionButton
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      app:fab_label="@string/speechT"
+      android:id="@+id/speechWord"
+      app:fab_size="mini"
+      android:src="@drawable/ic_volume_up_white"
+      />
+
+  <com.github.clans.fab.FloatingActionButton
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      app:fab_label="@string/scanWord"
+      android:id="@+id/scan"
+      app:fab_size="mini"
+      android:src="@drawable/ic_center_focus"
+      />
+
+ </com.github.clans.fab.FloatingActionMenu>
+
+
+
+</FrameLayout>

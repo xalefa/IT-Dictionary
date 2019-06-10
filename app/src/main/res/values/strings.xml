@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">IT Dictionary</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="prompt_password">Please enter your password</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[ Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="email_id">Email ID</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">IT Dictionary</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_help_acticity">Help Acticity IT Dictionary</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+
+    </string>
+    <string name="scanWord">Scan word</string>
+    <string name="speechT">Speech</string>
+    <string name="addNewWord">Speech to text</string>
+    <string name="kurdi1">دەربارەی ئەم ئایکۆنە</string>
+    <string name="full_ditail"> ئەم ئەپە تایبەتە بە بواری کۆمپیتەرو و تەکنەلۆژیای سەردەم، کۆکراوەی وشە بەکارهاتوەکانی ئەم بوارەیە و توانی وەرگێڕانی هەیە لە ئینگلیزەوە بۆ کوردی ، کوردی بۆ ئینگلیزی و ئینگلیزی بۆ ئینگلیزی ، وەتوانای ئەوەی هەیە وشەکان لەڕێگەی دەنگەوە بۆ زمانی ئینگلیزی لە بەکارهێنەر وەربگرێت و هاوماناکەی لە زمانی کوردیدا پیشانبدات، و هەروشەیەک بنوسیت و بۆت بخوینێتەوە و چۆنیەتی خێرای و خاوی خوێندنەوەکە دیاری بکەیت ،لەگەڵ ئەمەشدا ئەتوانیت ئەو وشانەی کە زۆربەی جار پێویست پێیان ئەبێت ئەتوانیت بیانکەیتە لیستی دڵخوازەکانتەوە(بوکمارک)،وە نزیکەی٣٥٠٠ وشەی تێدایە لەم کاتەدا (لە داهاتوودا زیاد ئەکرێت بۆ ١٥ هەزار وشە)و بەردەوام کاری لەسەر ئەکرێت بۆ ئەوەی بتوانین خزمەتێکی بچوک بە خواێندکارانی ئەم بوارە و سەرجەم شەیدایانی بوار تەکنەلۆژیا بکەین لە کوردستاندا.
+لەم بەشەی خوارەوەدا ڕونکردەوە لەسەر ئایکۆن و بەکارهێنانی وەرگێڕەکە خراوەتەڕوو.
+</string>
+    <string name="camera_text">لیرەدا ئەتوانین وشە لە سەر وێنە دەربکەین و بۆمان وەربگێڕێت</string>
+    <string name="speech_word_a">لێرەدا ئەتوانیت خۆت وشەیەک داخڵ بکەیت و ئەویش بۆت بخوێنێتەوە بە زمانی ئینگلیزی و خێرای خوێندنەوەکەی خۆت دیاری ئەکەیت</string>
+    <string name="sound_spech">لەم بەشەدا لەڕێگەی دەنگەوە ئەتوانیت وشەکەت بڵێت لە بری نوسین</string>
+    <string name="trans_en_en">وەرگێڕانی ئینگلیزی بۆ ئینگلیزی</string>
+    <string name="trans_ku_en">وەرگێڕانی کوردی بۆ ئینگلیزی</string>
+    <string name="trans_en_ku">وەرگێڕانی ئینگلیزی بۆ کوردی</string>
+
+
+    <string name="upload_an_image">Upload an image</string>
+    <string name="camera">camera</string>
+</resources>
