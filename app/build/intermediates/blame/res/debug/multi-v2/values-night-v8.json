@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Field\\Level third\\Secand Semster\\Mobil\\Firebase\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\GitHub And Git\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\167d9ea036c049f35d248fb0af98bc33\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76086e36186baad0e6e8d3a38a0c518c\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

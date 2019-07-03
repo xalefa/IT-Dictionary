@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Field\\Level third\\Secand Semster\\Mobil\\Firebase\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "D:\\GitHub And Git\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.4.0.aar\\9ce2a5bcfe721a4c8eb4f40f6df8080f\\res\\values-zh\\values-zh.xml",
+                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\android-image-cropper-2.4.0.aar\\b26f3ba8cf752c5b7052e84c50b9da8a\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

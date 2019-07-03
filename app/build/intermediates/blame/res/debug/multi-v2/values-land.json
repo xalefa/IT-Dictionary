@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Field\\Level third\\Secand Semster\\Mobil\\Firebase\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\GitHub And Git\\FirebaseLoginApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\167d9ea036c049f35d248fb0af98bc33\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76086e36186baad0e6e8d3a38a0c518c\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7e1485e0badee171444c5a943932ec68\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Twana\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d65dba0924f78e89b7c8e26ada7af67a\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
